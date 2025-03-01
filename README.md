@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hoosein (Aria).
+- 👀 I’m interested in CFD simulations using HPC clusters.
+- 🌱 I’m currently learning CNNAE methods in CFD.
+- 📫 How to reach me: hossein.seyyedzadeh@stonybrook.edu
+- 😄 Pronouns: he/him/his
