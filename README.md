@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hoosein (Aria).
+- 👋 Hi, I’m Hossein (Aria).
 - 👀 I’m interested in CFD simulations using HPC clusters.
 - 🌱 I’m currently learning CNNAE methods in CFD.
 - 📫 How to reach me: hossein.seyyedzadeh@stonybrook.edu
