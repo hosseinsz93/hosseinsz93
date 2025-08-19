@@ -17,7 +17,4 @@
 
 ## 📊 Github stats
  
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hossensz93's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hosseinsz93&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-   
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apihosseinsz93=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apihosseinsz93=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
