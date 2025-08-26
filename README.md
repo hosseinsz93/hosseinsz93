@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Hossein (Aria)
-🧑‍🎓 I'm a mechanical & Civil Engineer sharing about my journey and learnings in tech<br>💻 I'm skilled in computational science using HPC clusters<br>👀 I’m interested in Data Science & Machine learning in computational modeling<br>📫 How to reach me: hossein.seyyedzadeh@stonybrook.edu<br>😄 Pronouns: he/him/his
+🧑‍🎓 I'm a Mechanical & Civil Engineer sharing about my journey and learnings in tech and engineering<br>💻 I'm skilled in computational science using HPC clusters<br>👀 I’m interested in Data Science & Machine learning in computational modeling<br>📫 How to reach me: hossein.seyyedzadeh@stonybrook.edu<br>😄 Pronouns: he/him/his
 
 
 ## 🌐 Socials:
